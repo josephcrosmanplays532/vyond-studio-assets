@@ -1,2 +1,3 @@
-#vyond studio assets
+vyond studio assets
+
 an asset server for vyond studio
